@@ -1,0 +1,15 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package TUGAS2;
+
+/**
+ *
+ * @author dianp
+ */
+// Class Induk (Superclass)
+class Mahasiswa {
+    String nama;
+    String nim;
+}
